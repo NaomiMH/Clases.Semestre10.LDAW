@@ -18,10 +18,10 @@ jobs:
         users: actions/checkout@vl
 
       - name: Install and build
-        users: npm install && npm run build
+        run: npm install && npm run build
 
       - name: Deploy
-        users: JamesIves/github-pages-deploy-action@4.1.1
+        users: JamesIves/github-pages-deploy-action@4.1.5
         with:
           branch: gh-pages
           folder: build
