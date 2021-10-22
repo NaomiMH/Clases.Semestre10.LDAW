@@ -1,0 +1,27 @@
+name: Github Pages Deploy
+
+on:
+  push:
+    branches:
+      - "master"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [15.x]
+
+    steps:
+      - name: Checkout
+        users: actions/checkout@vl
+
+      - name: Install and build
+        users: npm install && npm run build
+
+      - name: Deploy
+        users: JamesIves/github-pages-deploy-action@4.1.1
+        with:
+          branch: gh-pages
+          folder: build
