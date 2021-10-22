@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Clases.Semestre10.LDAW/static/css/main.a617e044.chunk.css",
+    "main.js": "/Clases.Semestre10.LDAW/static/js/main.002696dc.chunk.js",
+    "main.js.map": "/Clases.Semestre10.LDAW/static/js/main.002696dc.chunk.js.map",
+    "runtime-main.js": "/Clases.Semestre10.LDAW/static/js/runtime-main.047b0d8b.js",
+    "runtime-main.js.map": "/Clases.Semestre10.LDAW/static/js/runtime-main.047b0d8b.js.map",
+    "static/js/2.ec7bdb0c.chunk.js": "/Clases.Semestre10.LDAW/static/js/2.ec7bdb0c.chunk.js",
+    "static/js/2.ec7bdb0c.chunk.js.map": "/Clases.Semestre10.LDAW/static/js/2.ec7bdb0c.chunk.js.map",
+    "static/js/3.0159ff7a.chunk.js": "/Clases.Semestre10.LDAW/static/js/3.0159ff7a.chunk.js",
+    "static/js/3.0159ff7a.chunk.js.map": "/Clases.Semestre10.LDAW/static/js/3.0159ff7a.chunk.js.map",
+    "index.html": "/Clases.Semestre10.LDAW/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Clases.Semestre10.LDAW/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ec7bdb0c.chunk.js.LICENSE.txt": "/Clases.Semestre10.LDAW/static/js/2.ec7bdb0c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Clases.Semestre10.LDAW/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.047b0d8b.js",
+    "static/js/2.ec7bdb0c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.002696dc.chunk.js"
+  ]
+}
